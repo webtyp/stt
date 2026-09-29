@@ -1,4 +1,5 @@
 # stt
+<img src="docs/img/badges.svg">
 
 The speech-to-text contract of webtyp: `Transcriber.Transcribe(ctx, audio.PCM)` → `Transcript{Text, Language}`. It is a contract only. The model that implements it runs in
 the browser in Go/TinyGo and lives in its own repository.
