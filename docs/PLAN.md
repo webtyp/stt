@@ -3,8 +3,9 @@ PLAN: "feat: stt contract — Transcriber and StreamTranscriber"
 TAG: v0.1.0
 EXECUTOR: jules
 REVIEWER: none
-STATUS: running
+STATUS: review
 SESSION: 2878250279206436709
+PR: https://github.com/webtyp/stt/pull/1
 ---
 
 > This plan is dispatched via the CodeJob workflow. See skill: agents-workflow.
